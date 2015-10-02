@@ -1,0 +1,13 @@
+{
+  "name": "mystery-word",
+  "version": "1.0.0",
+  "title": "Mystery Word",
+  "description": "Implement the game of Mystery Word, based off of the classic game Hangman.",
+  "keywords": [
+    "basics",
+    "files",
+    "strings",
+    "game",
+    "weekend-lab"
+  ]
+}
